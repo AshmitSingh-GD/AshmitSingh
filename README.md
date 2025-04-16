@@ -64,7 +64,7 @@
 
 ### 📬 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="mailto:ashmitsingh.work@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
