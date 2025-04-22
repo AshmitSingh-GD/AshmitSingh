@@ -65,9 +65,7 @@
 
 ### 📬 Let's Connect
 
-<p align="center">
-  <a href="mailto:ashmitsingh.work@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<p align="center"> <a href="mailto:ashmitsingh.work@gmail.com"> <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/> </a> <a href="www.linkedin.com/in/ashmit-singh-work" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="+91 92622 25346" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/> </a> </p>
 
 ---
 
