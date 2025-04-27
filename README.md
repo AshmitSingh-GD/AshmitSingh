@@ -39,8 +39,8 @@
 - 🧩 Game systems: Player movement, shooting, enemy AI
 - 📱 Cross-platform support and **responsive UI**
 
-📸  
-![Abyss Gunner Frontpage](https://github.com/user-attachments/assets/a837dcd8-f600-45cf-b94c-518cf4b3d27e)
+📸 
+![Abyss Gunner](https://github.com/user-attachments/assets/eca8821e-1ba1-4ffd-9115-cdc3a7bea342)
 
 
 
